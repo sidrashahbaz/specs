@@ -11,6 +11,7 @@ metadata. The EMR functionalities, including some supporting features, are provi
 layer. The top most Application Interface layer generates messages and reports and provides interfaces 
 for data entry to the system.
 
+![architecture](https://f.cloud.github.com/assets/4283040/1198735/8b883974-24fd-11e3-8389-ecc3aaa5bbaa.PNG)
 
 
 
