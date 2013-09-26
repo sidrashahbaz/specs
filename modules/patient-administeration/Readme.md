@@ -50,3 +50,9 @@ The following actors take a role in the patient administration service actors:
 |**Patient**      |End User of Service            |The Patient is an actor who is responsible for accessing his/her medical history. He/She is also responsible for defining or maintaining level of confidentiality of his/her medical profile.
 |**Physician**|Off Stage Actor                    |Physician is an off stage actor who is not responsible for adding value to the system but can get benefit from the system. 
 |**Healthcare Provider**|Off Stage Actor          |The Healthcare Provider (Healthcare Organization or agency) is an off stage actor who has an interest in how well this system is functioning.
+
+5. System Features
+------------------
+Following are the system features of the PAS:
+
+![use-case-model-pas](https://f.cloud.github.com/assets/5391320/1220968/4375148a-26e3-11e3-8f38-bd61fc83b1d5.jpg)
