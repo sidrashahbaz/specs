@@ -14,7 +14,7 @@ This is a set of functionality that provides the ability to find both appointmen
 
 Scheduling Services is a subsystem of the SEMR which provides functionality of management of appointments for particular resource.  In addition, the Scheduling Service have interfaces to the external systems such PAS (Patient Administration Service), Electronic Patient Record, Food Management System, Archival Management System and Patient Tracking System and Scheduling Service enabled applications. Any details of an external system are out of scope of this document. The figure #1 shows decomposition of Scheduling Service on the functionality areas and the supported external systems.
 
-![scheduling-service-architecture](https://f.cloud.github.com/assets/5391320/1224372/753ff196-2748-11e3-8366-3f54db28e476.png)
+![scheduling-service-architecture](https://f.cloud.github.com/assets/5391320/1224447/edc8edd2-274a-11e3-8ad5-26f2b050a3f4.png)
 
 3. Module Functions 
 -------------------
@@ -30,7 +30,7 @@ The following actors take a role in the Scheduling service actors:
 
 | **Name**        | **Description**               | **Responsibilities**                                         |      
 |-----------------|-------------------------------|--------------------------------------------------------------|
-|**Scheduling Service **| Scheduling Service Server Instance|The Scheduling Service is a specific implementation of the Scheduling Service Server.
+|**Scheduling Service**| Scheduling Service Server Instance|The Scheduling Service is a specific implementation of the Scheduling Service Server.
 |**Assistant**    |Primary Actor                  |Assistant is an actor who is responsible for scheduling, rescheduling and accessing appointments that are not limited to a patient for scheduling time interval for resource.
 |**Patient**      |Secondary Actor                |Users belonging to this category are responsible for requesting for scheduling an appointment via phone or through direct interaction with assistant.  
 |**Physician**    |Secondary Actor                |Physician is an actor who is occupied for a time slot in case of appointment being scheduled. He/She can also arrange or request for scheduling an inpatient appointment.
