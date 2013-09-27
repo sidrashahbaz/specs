@@ -45,15 +45,15 @@ Following are the system features of the PRS:
 
 ###Appendix A: Glossary
 -----------------------
-**Electronic Patient Record:**
+* **Electronic Patient Record:**
 The Electronic Patient Record provides a general view of all patient-related data to care providers within the Good Health Hospital, including specialists who use the system to prepare themselves for treating patients and to store their notes on a patient's medical history, evaluation and prognosis. Part of the patient record is an overview of all prior and planned admissions for a patient, as for outpatient encounters and other healthcare activities.
-**Jurisdictional Provider Registry System (JPRS):**
+* **Jurisdictional Provider Registry System (JPRS):**
 The jurisdictional provider registry system (JPRS) is a centralized source of information about individual healthcare providers. Data feeds to the JPRS come from a variety of primary sources; typically licensing and regulatory bodies like the College of Physicians, that make use of the publish and subscribe services, and query and report capabilities of the JPRS to make their data available to subscribing organizations. Access to the data is governed by contractual agreements between individual sources (who 'own' the data in the JPRS) and consumer organizations.
-**Jurisdictional Provider Organization Registry System (JPORS):**
+* **Jurisdictional Provider Organization Registry System (JPORS):**
 The jurisdictional provider organization registry system (JPORS) is a centralized source of information about healthcare provider organizations. Data feeds to the JPORS come from a variety of primary sources, typically licensing and regulatory bodies like the College of Pharmacists that use the publish and subscribe services, and query and report capabilities of the JPORS to make their data available to subscribing organizations. Access to the data is governed by contractual agreements between individual sources (who 'own' the data in the JPORS) and consumer organizations.
-**Services:**
+* **Services:**
 Services are real-world events, such as clinic appointments, the performance of which is controlled by a schedule.
-**Domain Message Information Model (DMIM):** 
+* **Domain Message Information Model (DMIM):** 
 A form of Refined Message Information Model (R-MIM) constructed to represent the totality of concepts embodied in the individual R-MIMs needed to support the communication requirements of a particular HL7 domain.
 
 ###Appendix B: Domain Analysis Models
