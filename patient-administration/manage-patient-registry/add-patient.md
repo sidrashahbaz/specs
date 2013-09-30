@@ -21,6 +21,7 @@ __________________________________________________________
 2. System asks user to enter patient’s full information including name, date of birth, address telephone number, email address, multiple identifiers (like master patient index, insurance subscriber ID, health plan Id, national patient Id), exempt from reporting function (like transferred, deceased, moved).
 3. RC enters the required information.
 4. System then performs following steps: **a)** Validates the entered information. **b)** Associates key identifiers information (i.e system Id, medical record number) with patient record. **c)** Stores patient record in separate discrete data fields successfully.
+
 _______________________________________________________________________________
 **Alternate Flows** 
 
