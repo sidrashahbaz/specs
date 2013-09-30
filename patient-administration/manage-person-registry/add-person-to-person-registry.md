@@ -29,10 +29,11 @@ _______________________________________________________________________________
 
 **Alt-1:**
 
-1.Invalid information cannot be added.
-2.Specified parent does not exist.
-3.Invalid relationship.
-_______________________________________________________________
+1. Invalid information cannot be added.
+2. Specified parent does not exist.
+3. Invalid relationship.
+
+________________________________________________________________________
 **Reference Hl7 V3 Interaction Identifiers (Domain: Patient Administration):**
 
 PRPA_ST101301UV02
