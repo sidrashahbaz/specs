@@ -22,16 +22,6 @@ __________________________________________________________
 3. MRC specifies the patient identifier.
 4. System returns the list of all identifiers linked with specified patient.
 
-
-_______________________________________________________________________________
-**Alternate Flows** 
-
-**Alt-1:**
-
-1. Invalid information cannot be added.
-2. Specified parent does not exist.
-3. Invalid relationship.
-
 ________________________________________________________________________
 **Reference Hl7 V3 Interaction Identifiers (Domain: Patient Administration):**
 
