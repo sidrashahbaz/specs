@@ -21,6 +21,7 @@ __________________________________________________________
 2. System asks user to enter filtering criteria such as date of service, encounter provider and associated diagnosis.
 3. Admitting Clerk specifies the filtering criteria.
 5. System displays the list of short stay encounters.
+
 ________________________________________________________________________
 **Reference Hl7 V3 Interaction Identifiers (Domain: Patient Administration):**
 
