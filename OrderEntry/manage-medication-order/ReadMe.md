@@ -6,9 +6,11 @@ Doctor/ Physician/ Clinician will login to EMR and will prescribe medication to 
 ![image](https://f.cloud.github.com/assets/4283040/1243500/4386bf6a-2a6b-11e3-9412-3d96316fb8fe.png)
 
 ####Functional Requirements
-*REQ-1:    Create New Medication Order
-*REQ-2:    Update Medication Order
-*REQ-3:    Discontinue Medication Order
-*REQ-4:    Renew Medication Order
-*REQ-5:    Verbal Order
-*REQ-6:    Co-Signature configuration
+* REQ-1:    Create New Medication Order
+* REQ-2:    Update Medication Order
+* REQ-3:    Discontinue Medication Order
+* REQ-4:    Renew Medication Order
+* REQ-5:    Verbal Order
+* REQ-6:    Co-Signature configuration
+
+
