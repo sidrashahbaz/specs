@@ -22,13 +22,6 @@ __________________________________________________________
 3. Receptionist reviews patient’s contact and insurance information and confirm it.
 4. System successfully checks in patient. System validates the fields and updates the patient’s record in person registry.
 
-_______________________________________________________________________________
-**Alternate Flows** 
-
-**Alt-1:**
-
-1. Invalid time for reschedule.
-
 ________________________________________________________________________
 **Reference Hl7 V3 Interaction Identifiers (Domain: Patient Administration):**
 
