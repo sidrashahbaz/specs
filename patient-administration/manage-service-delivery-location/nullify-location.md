@@ -15,7 +15,7 @@
 
 **Frequency of Occurrence:**   Low(Occasionally)
 __________________________________________________________
-**Main Success Scenario: (Add Person to Person Registry)**
+**Main Success Scenario: (Nullify Location)**
 
 1. MRC requests system to nullify a service delivery location record.
 2. System displays a list of service delivery location records.
