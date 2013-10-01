@@ -22,12 +22,19 @@ __________________________________________________________
 1.	Physician selects the new medication order option and selects MRNO (or any other identification criteria) from the list.
 2.	System shows the relevant data including weight of the patient, allergies and history.
 3.	Physician specifies symptoms, signs, and investigations.
-4.	System will perform the following action:  **a)**It will show the list of medication,  **b)**It will calculate the dosage of medication based on body mass index, age or defined medication protocols.
+4.	System will perform the following action:  
+..a)It will show the list of medication,  
+..b)It will calculate the dosage of medication based on body mass index, age or defined medication protocols.
 5.	Physician selects the medication from the specified list and specifies the frequency and route of medication.
-6.	System performs following actions:  **a)**validate information,  **b)**Investigate for any drug or allergy interactions.
+6.	System performs following actions:  
+..a)validate information,  
+..b)Investigate for any drug or allergy interactions.
 7.	Physician will save the medication order.
-8.	System will perform following actions:  **a)**It will record the time stamp of ordered medication,  **b)**It will set medication status to active,  **c)**It will send order to pharmacy along with order ID.
-_______________________________________________________________________________
+8.	System will perform following actions:  
+..a)It will record the time stamp of ordered medication,  
+..b)It will set medication status to active,  
+..c)It will send order to pharmacy along with order ID.
+__________________________________________________________
 **Alternate Flows** 
 
 **Alt-1: If medication not exist in list**
