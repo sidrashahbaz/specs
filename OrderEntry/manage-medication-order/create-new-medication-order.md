@@ -23,17 +23,18 @@ __________________________________________________________
 2.	System shows the relevant data including weight of the patient, allergies and history.
 3.	Physician specifies symptoms, signs, and investigations.
 4.	System will perform the following action:  
-..a)It will show the list of medication,  
-..b)It will calculate the dosage of medication based on body mass index, age or defined medication protocols.
+  * It will show the list of medication,  
+  * It will calculate the dosage of medication based on body mass index, age or defined medication protocols.
 5.	Physician selects the medication from the specified list and specifies the frequency and route of medication.
 6.	System performs following actions:  
-..a)validate information,  
-..b)Investigate for any drug or allergy interactions.
+  * validate information,  
+  * Investigate for any drug or allergy interactions.
 7.	Physician will save the medication order.
 8.	System will perform following actions:  
-..a)It will record the time stamp of ordered medication,  
-..b)It will set medication status to active,  
-..c)It will send order to pharmacy along with order ID.
+  * It will record the time stamp of ordered medication,  
+  * It will set medication status to active,  
+  * It will send order to pharmacy along with order ID.
+
 __________________________________________________________
 **Alternate Flows** 
 
@@ -65,9 +66,9 @@ __________________________________________________________
 
 1.	Repeat step 1 to 6 from the main scenario.
 2.	Physician review the system response of interaction checking and take actions as: 
-..a)In case any drug or allergy interaction reveals, it sort some other alternate medication and proceed with normal order flow if find no drug to drug or drug to allergy interaction, 
-..b)In case absence of any drug to drug or drug to allergy interaction, the physician proceeds with normal flow of medication order, 
-..c)System will set the medication status to active.
+  * In case any drug or allergy interaction reveals, it sort some other alternate medication and proceed with normal order flow if find no drug to drug or drug to allergy interaction, 
+  * In case absence of any drug to drug or drug to allergy interaction, the physician proceeds with normal flow of medication order, 
+  * System will set the medication status to active.
 3.	The step 7 and 8 in main scenario of events are then executed.
 
 _______________________________________________________________
