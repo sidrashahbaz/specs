@@ -13,7 +13,7 @@
 
 **Post Condition:**            Non-Stock Requisition order created successfully.
 
-**Frequency of Occurrence:**   High
+**Frequency of Occurrence:**   Medium
 
 **Priority:**                  High
 __________________________________________________________
@@ -39,7 +39,7 @@ _______________________________________________________________
 
 -NA-
 _______________________________________________________________
-**Reference Hl7 V3 Interaction Identifiers (Domain: Pharmacy):**
+**Reference Hl7 V3 Interaction Identifiers:**
 
 -NA-
 _______________________________________________________________
