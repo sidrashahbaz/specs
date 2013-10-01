@@ -2,11 +2,6 @@
 ---------------
 
 Patient charting services represent functions necessary to manage, search, and access patient chart registry. Patient charting services provide a consistent specification for accessing and managing patient chart registry, independent of the underlying technology stack. Patient chart registry represents various resources including problem list, allergy list, immunization list, vital signs, clinical notes, clinical guidelines and external documents. Problem oriented approach is adopted for patient charts and the data will be entered in a chart using SOAP (subjective, objective, assessment and plan) format. The following thematic areas are considered in scope according to different phases in SOAP:
-1. First ordered list item
-2. Another item
-3. Radiology/imaging; and
-4. Provider referrals
-Order Entry content represents various resources including medication list, diagnosis, order type, problem list, order target, order specimen, route of administration, order priority, taxonomies and formal description logic based on ontologies. The following thematic areas are considered in scope for SOES.
 
 * **Subjective:**
 This is a set of functionality that provides the ability to manage patient’s condition in narrative form as part of a patient charting service. In simple words, in this phase patient is telling his/her story such as disease symptoms, diet problems and other history. Its functions include the ability to manage problem/diagnosis list, allergy list and immunization list as well as ability to access patient history and his/her family history. These functions are generally protected and accessible by physician and patient with appropriate authorization.
@@ -44,7 +39,7 @@ The following actors take a role in the Scheduling service actors:
 
 | **Name**        | **Description**               | **Responsibilities**                                         |      
 |-----------------|-------------------------------|--------------------------------------------------------------|
-|**SPC Service **| End User of Service| The SPC Service is a specific implementation of the SPC Server.
+|**SPC Service**| End User of Service| The SPC Service is a specific implementation of the SPC Server.
 |**Physician** | End User of Service| A Physician is an actor who is responsible for accessing patient charting information and maintaining patient charting various contents such as medication list, problem list, vital signs, immunization list, referrals and clinical notes. 
 |**Patient** | End User of the Service| Users belonging to this category are responsible for accessing his/her patient chart and adding comments on clinical notes.
 |**Assistant** | End User of the Service | Assistant is an actor who is responsible for managing and accessing clinical, identification and administrative documents such as consents, authorizations, lab images, insurance policies.
@@ -53,6 +48,6 @@ The following actors take a role in the Scheduling service actors:
 
 5. System Features
 ------------------
-Following are the system features of the STS:
+Following are the system features of the SPCS:
 
 ![image](https://f.cloud.github.com/assets/4283040/1243012/4729b23c-2a5a-11e3-97ea-e6906fd0833c.png)
