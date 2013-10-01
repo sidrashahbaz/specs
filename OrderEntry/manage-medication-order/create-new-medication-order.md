@@ -76,7 +76,7 @@ _______________________________________________________________
 
 Verbal Language Supprt
 _______________________________________________________________
-**Reference Hl7 V3 Interaction Identifiers (Domain: Pharmacy:**
+**Reference Hl7 V3 Interaction Identifiers (Domain: Pharmacy):**
 
 DORX_ST000300UV01, DORX_ST060020UV01
 _______________________________________________________________
