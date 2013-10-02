@@ -33,6 +33,7 @@ __________________________________________________________
     * It will send the prescription to pharmacy and will respond with non-medication order ID.
     
 **Sub-Flow:**
+
 1.	System responds with interaction among the patient allergies and the prescribed home IV.
 2.	Physician will prescribe some alternative home IV.
 3.	The step 3 in main scenario of events is then executed.
