@@ -17,10 +17,10 @@
 __________________________________________________________
 **Main Success Scenario: (Find Emergency Encounter)**
 
-1. ER Clerk requests to cancel end emergency encounter.
-2. System asks user to enter the reason for cancellation.
-3. ER Clerk enters the reason code and submits it.
-4. System cancels the end emergency encounter.
+1.	ER Clerk selects find emergency encounter option.
+2.	System asks user to enter filtering criteria such as date of service, encounter provider and associated diagnosis.
+3.	ER Clerk specifies the filtering criteria.
+4.	System displays the list of emergency encounters.
 
 _______________________________________________________________________________
 **Alternate Flows** 
