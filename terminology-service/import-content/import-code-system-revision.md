@@ -35,9 +35,8 @@ __________________________________________________________
 
 **Alt-1:**
 
-a.	Code system not found at source location.
-b.	Supplied contents cannot be processed.
- 
+1. Code system not found at source location.
+2. Supplied contents cannot be processed.
 
 _______________________________________________________________
 **Open Issues**
