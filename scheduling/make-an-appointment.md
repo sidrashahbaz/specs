@@ -45,7 +45,7 @@ _______________________________________________________________________________
 2. System asks user to specify patient’s brief details required for his/her registration, attending physician and appointment type (such as inpatient, outpatient).
 3. Repeat the 3-4 steps of main scenario.
 
-**Alt-1:If patient record does not exist**
+**Alt-2:If appointment type is inpatient or for short stay encounter**
 
 1. Assistant requests for creating a new appointment.
 2. System asks user to specify patient (if exist), attending physician and appointment type (if type = inpatient or short stay).
