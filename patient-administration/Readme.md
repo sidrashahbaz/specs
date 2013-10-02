@@ -44,7 +44,7 @@ The following actors take a role in the patient administration service actors:
 |**Nursing Unit Clerk**|End User of Service       |The Nursing Unit Clerk is an actor who is responsible for maintain patient’s discharge and post discharge information.
 |**Emergency Room Clerk**|End User of Service     |The Emergency Room Clerk is an actor who is responsible for creating and maintaining emergency encounter from their start to completion.
 |**Receptionist** |End User of Service            |Users of this category are responsible for querying information form patient administration registry and creating or maintaining ambulatory, inpatient and short stay encounter appointments. They are also responsible for maintaining ambulatory encounter information.
-|**Discharge Coordinator **|End User of Service   |Users of this category are responsible for maintaining information related to inpatient discharge status such as “pending”.
+|**Discharge Coordinator**|End User of Service   |Users of this category are responsible for maintaining information related to inpatient discharge status such as “pending”.
 |**Provider Coordinator**|End User of Service     |The Provider Coordinator is an actor who is responsible for creating and maintaining home health encounter appointments. 
 |**Nurse**        |End User of Service            |Users belonging to this category of actors are responsible for maintaining information related to home health encounters from their start to their completion and also include abort home health encounter.
 |**Patient**      |End User of Service            |The Patient is an actor who is responsible for accessing his/her medical history. He/She is also responsible for defining or maintaining level of confidentiality of his/her medical profile.
