@@ -35,7 +35,7 @@ The following actors take a role in the Scheduling service actors:
 
 | **Name**        | **Description**               | **Responsibilities**                                         |      
 |-----------------|-------------------------------|--------------------------------------------------------------|
-|**Terminology User **| End User of Service| A Terminology User is an actor such as a subject matter expert, terminologist or terminology enabled application. Terminology User activities include, but are not limited to, querying for specific concept codes and browsing or comparing value sets. Specializations of the Terminology User actor follow below.
+|**Terminology User**| End User of Service| A Terminology User is an actor such as a subject matter expert, terminologist or terminology enabled application. Terminology User activities include, but are not limited to, querying for specific concept codes and browsing or comparing value sets. Specializations of the Terminology User actor follow below.
 |**CTS2 Service** | Terminology Server| The CTS 2 Service is a specific implementation of the CTS 2 Terminology Server.
 |**Terminology Administrator** | End User of the Service| Users belonging to this category are responsible for requesting for scheduling an appointment via phone or through direct interaction with assistant.  
 |**Terminology Enabled Application Developer** | End User of the Service | User belonging to this category is responsible for the development of software applications that make explicit use of controlled terminologies.
