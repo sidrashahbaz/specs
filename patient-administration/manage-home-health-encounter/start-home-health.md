@@ -7,7 +7,7 @@
 
 **Stakeholders:**              Nurse, Physician, Patient , Healthcare Provider
 
-**Purpose:**                   The main intent of this use case is to reschedule home health encounter.
+**Purpose:**                   The main intent of this use case is to start home health encounter.
 
 **Pre Condition:**             Nurse must be identified and authenticated.
 
