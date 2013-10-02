@@ -15,7 +15,7 @@
 
 **Frequency of Occurrence:**   low
 
-**Conformance**             	 CTS2 (Common Terminology Standard)
+**Conformance:**             	 CTS2 (Common Terminology Standard)
 
 **Priority:**                  High
 __________________________________________________________
