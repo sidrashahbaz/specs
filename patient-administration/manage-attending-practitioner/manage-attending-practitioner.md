@@ -9,13 +9,13 @@
 
 **Purpose:**                   The main intent of this use case is to change or cancel change request for attending practitioner during an encounter.
 
-**Pre Condition:**             RC must be identified and authenticated. 
+**Pre Condition:**             Clerk must be identified and authenticated. 
 
 **Post Condition:**            System will record the change of attending practitioner.
 
 **Frequency of Occurrence:**   Medium
 __________________________________________________________
-**Main Success Scenario: (Change Attending Practitioner))**
+**Main Success Scenario: (Change Attending Practitioner)**
 
 1. Clerk requests to change attending practitioner.
 2. System displays the list of available practitioners.
