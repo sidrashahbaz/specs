@@ -25,11 +25,12 @@ __________________________________________________________
   * Validates the organization details.
   * Records physician group details.
   
-  
+
 _______________________________________________________________________________
 **Alternate Flows** 
 
 **Alt-1:**
+
 1. Invalid information cannot be added.
 
 ________________________________________________________________________
