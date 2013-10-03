@@ -3,7 +3,7 @@
 
 **Level:**                     User Level Goal
 
-**Primary Actors:**            Clerk (RC)
+**Primary Actors:**            Clerk
 
 **Stakeholders:**              Clerk, Healthcare Organization
 
