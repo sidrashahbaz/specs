@@ -24,7 +24,7 @@ __________________________________________________________
 4. System removes the provider record.
 
 ________________________________________________________________________
-**Reference Hl7 V3 Interaction Identifiers (Domain: Personal Management):**
+**Reference Hl7 V3 Interaction Identifiers (Domain: Personnel Management):**
 
 N/A
 _______________________________________________________________
