@@ -5,7 +5,7 @@
 
 **Primary Actors:**            Clerk 
 
-**Stakeholders:**              Registration Clerk, Healthcare Provider
+**Stakeholders:**              Clerk, Healthcare Provider
 
 **Purpose:**                   The main intent of this use case is to get provider details.
 
@@ -26,7 +26,7 @@ __________________________________________________________
 6. System displays the full provider information.
 
 ________________________________________________________________________
-**Reference Hl7 V3 Interaction Identifiers (Domain: Personal Management):**
+**Reference Hl7 V3 Interaction Identifiers (Domain: Personnel Management):**
 
 PRPM_ST305000UV01
 _______________________________________________________________
