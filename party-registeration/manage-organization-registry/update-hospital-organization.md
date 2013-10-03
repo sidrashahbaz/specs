@@ -5,7 +5,7 @@
 
 **Primary Actors:**            Clerk 
 
-**Stakeholders:**              Clerk, Healthcare Organization
+**Stakeholders:**              Clerk, Provider, Provider Organization
 
 **Purpose:**                   The main intent of this use case is to update hospital organization details in the registry.
 
