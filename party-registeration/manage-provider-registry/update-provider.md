@@ -25,14 +25,15 @@ __________________________________________________________
 5. RC modifies the fields of provider’s demographics and submits it.
 6. System validates the fields and updates the provider’s record in provider registry.
   
+
 _______________________________________________________________________________
 **Alternate Flows** 
 
-Alt-1:
+**Alt-1:**
 1. Invalid information cannot be entered.
 
 ________________________________________________________________________
-**Reference Hl7 V3 Interaction Identifiers (Domain: Personal Management):**
+**Reference Hl7 V3 Interaction Identifiers (Domain: Personnel Management):**
 
 PRPM_ST304000UV01
 _______________________________________________________________
