@@ -5,7 +5,7 @@
 
 **Primary Actors:**            Terminology Author  
 
-**Purpose:**                   The main intent of this use case is to import code system revision to make it available to the terminology users through Terminology Server.
+**Purpose:**                   The main intent of this use case is to import code system to make it available to the terminology users through Terminology Server.
 
 **Pre Condition:**             Terminology Author must be identified and authenticated. 
 
@@ -17,7 +17,7 @@
 
 **Priority:**                  Low
 __________________________________________________________
-**Main Success Scenario: (ICreate Code System)**
+**Main Success Scenario: (Create Code System)**
 
 1.	Terminology Author selects a create code system option.
 2.	System asks user to specify the metadata of the code system which includes Id, version, description and other properties.
