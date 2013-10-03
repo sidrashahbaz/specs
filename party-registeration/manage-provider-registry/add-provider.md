@@ -14,9 +14,7 @@
 **Post Condition:**            Provider identifiers and demographics will be recorded in local provider
 registry successfully.
 
-**Frequency of Occurrence:**   Medium
-
-**Priority**                   High
+**Frequency of Occurrence:**   High
 __________________________________________________________
 **Main Success Scenario: (Add Provider)**
 
@@ -28,8 +26,8 @@ certification document, work locations and disciplinary actions etc.
   * Validates the entered information.
   * Associates key identifiers information (i.e Id, state medical license, DEA) with provider record.
   * Stores provider record in separate discrete data fields successfully.
-  
-_______________________________________________________________________________
+
+______________________________________________________________________________
 **Alternate Flows** 
 
 **Alt-1**
