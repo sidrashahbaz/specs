@@ -7,7 +7,7 @@
 
 **Purpose:**                   The main intent of this use case is to create code system supplement in a terminology service.
 
-**Pre Condition:**             Terminology Administrator must be identified and authenticated. Terminology Administrator must have access to code system revision provided by the terminology provider.
+**Pre Condition:**             Terminology Author must be identified and authenticated.
 
 **Post Condition:**            Code System supplements will be created successfully.
 
