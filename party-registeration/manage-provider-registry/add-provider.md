@@ -38,7 +38,7 @@ _______________________________________________________________________________
 2. Invalid identifier.
 
 ________________________________________________________________________
-**Reference Hl7 V3 Interaction Identifiers (Domain: Personal Management):**
+**Reference Hl7 V3 Interaction Identifiers (Domain: Personnel Management):**
 
 PRPM_ST301000UV01
 _______________________________________________________________
