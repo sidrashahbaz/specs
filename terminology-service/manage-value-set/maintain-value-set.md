@@ -28,6 +28,7 @@ __________________________________________________________
 7.	The system will also notify users who registered for content update notifications.
 
 **Sub-Flow:**
+
 1. Invalid Value Set properties.
 2. Unrecognized/invalid rule set. 
 
