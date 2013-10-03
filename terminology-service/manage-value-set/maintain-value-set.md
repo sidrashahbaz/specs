@@ -26,6 +26,7 @@ __________________________________________________________
 5.	Terminology Author modifies the value set properties and submits it. 
 6.	System validates the specified fields and records value set successfully.
 7.	The system will also notify users who registered for content update notifications.
+
 **Sub-Flow:**
 1. Invalid Value Set properties.
 2. Unrecognized/invalid rule set. 
