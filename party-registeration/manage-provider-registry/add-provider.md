@@ -26,8 +26,8 @@ certification document, work locations and disciplinary actions etc.
 3. RC enters the required information.
 4. System then performs following steps:
   * Validates the entered information.
-  * Associates key identifiers information (i.e Id, state medical license, DEA) with patient record.
-  * Stores patient record in separate discrete data fields successfully.
+  * Associates key identifiers information (i.e Id, state medical license, DEA) with provider record.
+  * Stores provider record in separate discrete data fields successfully.
   
 _______________________________________________________________________________
 **Alternate Flows** 
@@ -38,7 +38,7 @@ _______________________________________________________________________________
 2. Invalid identifier.
 
 ________________________________________________________________________
-**Reference Hl7 V3 Interaction Identifiers (Domain: Scheduling):**
+**Reference Hl7 V3 Interaction Identifiers (Domain: Personal Management):**
 
 PRPM_ST301000UV01
 _______________________________________________________________
