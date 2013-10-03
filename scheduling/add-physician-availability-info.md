@@ -24,7 +24,7 @@ The Scheduling Service module will allow user to add physicians’ availability 
 
 **Priority**                   High
 __________________________________________________________
-**Main Success Scenario: (Add Physician Availability Info))**
+**Main Success Scenario: (Add Physician Availability Info)**
 
 1. Assistant selects add physician availability information option.
 2. System asks user to enter availability information such as available days in a week and available hours in a day.
