@@ -25,6 +25,7 @@ __________________________________________________________
 5. Clerk selects an appropriate group for details.
 6. System displays the full physician group details including the list of physician in a specified group.
 
+
 ________________________________________________________________________
 **Reference Hl7 V3 Interaction Identifiers (Domain: Personnel Management):**
 
