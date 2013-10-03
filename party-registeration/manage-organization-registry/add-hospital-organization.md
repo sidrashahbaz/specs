@@ -5,7 +5,7 @@
 
 **Primary Actors:**            Clerk
 
-**Stakeholders:**              Clerk, Healthcare Organization
+**Stakeholders:**              Clerk, Provider, Provider Organization
 
 **Purpose:**                   The main intent of this use case is to add hospital organization within a hospital where the organization information is maintained in a central system.
 
