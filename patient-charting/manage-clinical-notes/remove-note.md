@@ -11,7 +11,7 @@
 
 **Pre Condition:**             Physician must be identified and authenticated.
 
-**Post Condition:**            Comments will be removed successfully.
+**Post Condition:**            Note will be removed successfully.
 
 **Frequency of Occurrence:**   Medium
 __________________________________________________________
