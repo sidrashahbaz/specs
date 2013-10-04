@@ -31,7 +31,7 @@ using vital sign specific fields, For example:
 6. System validates the field and records the vital sign.
 
 ________________________________________________________________________
-**Reference Hl7 V3 Interaction Identifiers (Domain: Patient Administration):**
+**Reference Hl7 V3 Interaction Identifiers:**
 
 N/A
 _______________________________________________________________
