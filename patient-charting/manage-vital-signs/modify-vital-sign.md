@@ -23,9 +23,10 @@ __________________________________________________________
 4. System displays the vital sign measurement and asks user to modify the measurement.
 5. Physician modifies the measurement and submits it.
 6. System validates the fields and records the updated vital signs version.
+7. System will maintain separate version of updated vital signs measurements.
 
 ________________________________________________________________________
-**Reference Hl7 V3 Interaction Identifiers (Domain: Patient Administration):**
+**Reference Hl7 V3 Interaction Identifiers:**
 
 N/A
 _______________________________________________________________
