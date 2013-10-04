@@ -25,6 +25,7 @@ __________________________________________________________
 4.	System returns the association types available.
 
 **Sub-Flow:**
+
 1. Invalid filter criteria
 
 _______________________________________________________________
