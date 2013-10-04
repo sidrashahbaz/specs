@@ -23,7 +23,15 @@ __________________________________________________________
 2.	System asks user to specify the Id, name, properties and code system Ids (for restricting association type to specific code systems) of the association type.
 3.	User enters the required fields.
 4.	System validates the specified fields.
-5.	System records association type successfully.
+
+__________________________________________________________
+**Alternate Flows** 
+
+**Alt-1:**
+
+1.	Association type already exists.
+2.	Invalid association type  properties
+3.	Unrecognized Code System ID
 
 _______________________________________________________________
 **Open Issues**
