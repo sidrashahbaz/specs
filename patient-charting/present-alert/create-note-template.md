@@ -12,7 +12,7 @@ based on predefined clinical or administrative fields
 
 **Pre Condition:**             Note template will be created successfully.
 
-**Post Condition:**            Patient identifiers and demographics will be added in patient registry successfully.
+**Post Condition:**            Note template will be created successfully.
 
 **Frequency of Occurrence:**   Low
 __________________________________________________________
