@@ -15,7 +15,7 @@
 
 **Frequency of Occurrence:**   Medium
 __________________________________________________________
-**Main Success Scenario: (Create Procedure Instruction)**
+**Main Success Scenario: (Modify Procedure Instruction)**
 
 1. Physician selects edit instruction option.
 2. System displays the list of patient specific instructions.
