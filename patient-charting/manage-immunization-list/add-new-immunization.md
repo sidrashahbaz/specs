@@ -17,7 +17,7 @@
 
 **Priority:**                  High
 __________________________________________________________
-**Main Success Scenario: (Add Comment to Problem)**
+**Main Success Scenario: (Add New Immunization)**
 
 1.	Physician selects the add immunization option for a particular patient.
 2.	System shows the patient immunization history.
