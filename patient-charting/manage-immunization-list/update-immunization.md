@@ -39,7 +39,7 @@ _______________________________________________________________
 
 -NA-
 _______________________________________________________________
-**Reference Hl7 V3 Interaction Identifiers (Domain: Problem List):**
+**Reference Hl7 V3 Interaction Identifiers (Domain: Immunization List):**
 
 -NA-
 _______________________________________________________________
