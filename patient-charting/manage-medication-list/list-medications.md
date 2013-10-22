@@ -13,7 +13,7 @@
 
 **Post Condition:**            Medication listed successfully.  
 
-**Frequency of Occurrence:**   Medium
+**Frequency of Occurrence:**   High
 
 **Priority:**                  High
 __________________________________________________________
