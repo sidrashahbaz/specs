@@ -50,7 +50,7 @@ N/A
 _______________________________________________________________
 **Reference FHIR Resource:** [More Details](http://www.hl7.org/implement/standards/fhir/resourcelist.html)
 
-![image](https://f.cloud.github.com/assets/4283040/1378809/0d83d8dc-3adb-11e3-8725-30a3fd9df3ba.png)
+-NA-
 _______________________________________________________________
 **Reference CDA Template:** [More Details](http://www.hl7.org/Special/committees/structure/index.cfm)
 
