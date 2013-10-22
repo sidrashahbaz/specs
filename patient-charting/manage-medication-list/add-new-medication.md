@@ -1,4 +1,4 @@
-#####Use Case ID: UC-PCS20
+#####Use Case ID: UC-PCS58
 ####Use Case Name: Add New Medication
 
 **Level:**                     User Level Goal
@@ -7,11 +7,11 @@
 
 **Stakeholders:**              Patient Charting User
 
-**Purpose:**                   The main intent of this use case is the creation of new problem in the list.
+**Purpose:**                   The main intent of this use case is to add new medication in the list.
 
 **Pre Condition:**             Doctor/ Physician/ Clinician must be identified and authenticated.  
 
-**Post Condition:**            New problem created successfully without any conflicts.  
+**Post Condition:**            New medication added successfully without any conflicts. 
 
 **Frequency of Occurrence:**   High
 
