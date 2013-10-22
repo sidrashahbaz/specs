@@ -1,4 +1,4 @@
-#####Use Case ID: UC-PCS14
+#####Use Case ID: UC-PCS15
 ####Use Case Name: Add New Allergy
 
 **Level:**                     User Level Goal
@@ -17,7 +17,7 @@
 
 **Priority:**                  High
 __________________________________________________________
-**Main Success Scenario: (Add Comment to Immunization)**
+**Main Success Scenario: (Add New Allergy)**
 
 1.	Physician selects the new allergy option for the particular patient.
 2.	Physician will perform following actions:
