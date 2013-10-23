@@ -1,5 +1,5 @@
 #####Use Case ID: UC-PCS64
-####Use Case Name: Return Medication Details
+####Use Case Name: Import External Document
 
 **Level:**                     User Level Goal
 
