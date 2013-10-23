@@ -1,5 +1,5 @@
 #####Use Case ID: UC-TS05
-#####Use Case Name: IExport Code system Content
+#####Use Case Name: Export Code system Content
 
 **Level:**                     User Level Goal
 
