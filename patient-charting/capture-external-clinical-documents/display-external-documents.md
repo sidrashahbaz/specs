@@ -1,5 +1,5 @@
 #####Use Case ID: UC-PCS65
-####Use Case Name: Return Medication Details
+####Use Case Name: Display External Document
 
 **Level:**                     User Level Goal
 
