@@ -1,5 +1,5 @@
 #####Use Case ID: UC-TS06
-#####Use Case Name: IExport Code system Content
+#####Use Case Name: Export Code system Content
 
 **Level:**                     User Level Goal
 
@@ -50,7 +50,7 @@ _______________________________________________________________
 -NA-
 
 _______________________________________________________________
-**Reference Hl7 RMIM (Domain: Patient Administration):** [More Details](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=306)
+**Reference Hl7 RMIM (Domain: CTS):** [More Details](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=306)
 
 -NA-
 
