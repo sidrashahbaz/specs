@@ -49,7 +49,7 @@ _______________________________________________________________
 -NA-
 
 _______________________________________________________________
-**Reference Hl7 RMIM (Domain: Patient Administration):** [More Details](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=306)
+**Reference Hl7 RMIM (Domain: CTS):** [More Details](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=306)
 
 -NA-
 
