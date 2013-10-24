@@ -1,5 +1,5 @@
 #####Use Case ID: UC-OES16
-#####Use Case Name: Change Medication Order Status
+#####Use Case Name: Check Medication Order Status
 
 **Level:**                     User Level Goal
 
@@ -7,7 +7,7 @@
 
 **Stakeholders:**              Order Entry User
 
-**Purpose:**                   The main intent of this use case is to check and update the current status of the non-medication order.
+**Purpose:**                   The main intent of this use case is to check the current status of the non-medication order.
 
 **Pre Condition:**             Doctor/ Physician/ Clinician must be identified and authenticated.  
 
@@ -17,7 +17,7 @@
 
 **Priority:**                  High
 __________________________________________________________
-**Main Success Scenario: (Change Non-Medication Order Status)**
+**Main Success Scenario: (Check Non-Medication Order Status)**
 
 1.	User requests to check the non-medication order status.
 2.	System displays the list of available non-medication orders.
