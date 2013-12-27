@@ -27,6 +27,18 @@ __________________________________________________________
 3. Physician enters the required fields.
 4. System validates the fields and records the immunization recommendation.
 
+__________________________________________________________
+**Alternate Flows:**
+
+**Alt-1: Interaction Checking**
+
+1.	Repeat step 1 to 3 from the main scenario.
+2.	Physician review the system response of interaction checking and take actions as: 
+  * In case any drug or allergy interaction reveals, it sort some other alternate immunization and proceed with normal order flow if find no drug to drug or drug to allergy interaction, 
+  * In case absence of any drug to drug or drug to allergy interaction, the physician proceeds with normal flow of immunization recommendation process, 
+  * System will set the immunization recommendation status to active.
+3.	The step 4 in main scenario of events are then executed.
+
 ________________________________________________________________________
 **Reference Hl7 V3 Interaction Identifiers:**
 [More Details](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=306)
@@ -36,4 +48,4 @@ _______________________________________________________________
 **Reference CCHIT Criteria:**
 [More Details](https://www.cchit.org/cchit-certified)
 
-FN 16.03
+FN 16.02, FN 16.03
