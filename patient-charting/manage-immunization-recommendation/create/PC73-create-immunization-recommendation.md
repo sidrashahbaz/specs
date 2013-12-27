@@ -34,8 +34,8 @@ __________________________________________________________
 
 1.	Repeat step 1 to 3 from the main scenario.
 2.	Physician review the system response of interaction checking and take actions as: 
-  * In case any drug or allergy interaction reveals, it sort some other alternate immunization and proceed with normal order flow if find no drug to drug or drug to allergy interaction, 
-  * In case absence of any drug to drug or drug to allergy interaction, the physician proceeds with normal flow of immunization recommendation process, 
+  * In case any allergy interaction reveals, it sort some other alternate immunization and proceed with normal order flow if find no allergy interaction, 
+  * In case absence of any allergy interaction, the physician proceeds with normal flow of immunization recommendation process, 
   * System will set the immunization recommendation status to active.
 3.	The step 4 in main scenario of events are then executed.
 
