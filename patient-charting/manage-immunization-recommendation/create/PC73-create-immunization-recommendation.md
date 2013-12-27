@@ -24,7 +24,7 @@ __________________________________________________________
     * route and site
     * manufacturer
     * user ID.
-3. Physician enters the required fields.
+3. Physician enters the required fields and specifies the clinical assesments required for immunization if required.
 4. System validates the fields and records the immunization recommendation.
 
 __________________________________________________________
@@ -48,4 +48,4 @@ _______________________________________________________________
 **Reference CCHIT Criteria:**
 [More Details](https://www.cchit.org/cchit-certified)
 
-FN 16.02, FN 16.03
+FN 16.02, FN 16.03, IP 15.07
