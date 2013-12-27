@@ -1,4 +1,4 @@
-#####Use Case ID: UC-PC40
+#####Use Case ID: UC-PC73
 #####Use Case Name: Create Immunization Recommendation
 
 **Level:**                     User Level Goal
