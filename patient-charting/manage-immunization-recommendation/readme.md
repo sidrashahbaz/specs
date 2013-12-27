@@ -3,13 +3,16 @@
 
 The Immunization Recommendation is intended to cover communication of a specified patient's immunization recommendation and status across all healthcare disciplines in all care settings and all regions. Additionally, the Immunization Recommendation is expected to cover key concepts related to the querying of a patient's immunization recommendation and status.
 
-![image](https://f.cloud.github.com/assets/4283040/1813453/5decedec-6ebe-11e3-84a0-e8db992c5956.png)
+![image](https://f.cloud.github.com/assets/4283040/1813840/37f08bc2-6ed6-11e3-84f8-3dc58991e755.png)
 
 ####Functional Requirements
 * REQ-1: Create Immunization Recommendation
 * REQ-2: List Immunization Recommendation
 * REQ-3: Get Immunization Recommendation
-* REQ-4: Update Immunization Recommendation
+* REQ-4: Check Immunization Recommendation Status
+* REQ-5: Update Immunization Recommendation
+* REQ-6: Change Immunization Recommendation Status
+* REQ-7: Add Comment to Immunization Recommendation
 
 _______________________________________________________________
 **Reference Hl7 RMIM:** [More Details](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=306)
