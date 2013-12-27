@@ -3,7 +3,7 @@
 
 The Immunization Recommendation is intended to cover communication of a specified patient's immunization recommendation and status across all healthcare disciplines in all care settings and all regions. Additionally, the Immunization Recommendation is expected to cover key concepts related to the querying of a patient's immunization recommendation and status.
 
-![image](https://f.cloud.github.com/assets/4283040/1810153/5ba0dcd0-6e17-11e3-992c-4cab21fac617.png)
+![image](https://f.cloud.github.com/assets/4283040/1813453/5decedec-6ebe-11e3-84a0-e8db992c5956.png)
 
 ####Functional Requirements
 * REQ-1: Create Immunization Recommendation
