@@ -17,15 +17,6 @@
 __________________________________________________________
 **Main Success Scenario: (Get Immunization Recommendations)**
 
-1.	Physician requests to display list of immunization recommendations.
-2.	System asks user to specify the filtering criteria(if any) such as 
-      * Immunization type
-      * date and time of administration 
-      * route and site
-      * manufacturer
-3.	Physician enters the filtering criteria.
-4.	System then displays the list of immunization recommendations as per criteria.
-
 1.  User performs the actions in [list immunization recommendations usecase](PC74-list-immunization-recommendation.md).
 2.	System displays the list of immunization recommendations.
 3.	User selects an appropriate immunization recommendation and selects view details option.
