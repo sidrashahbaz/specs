@@ -20,12 +20,12 @@ __________________________________________________________
 1.  User performs the actions in [list adverse reactions usecase](PC81-list-adverse-reactions.md).
 2.	System displays the list of adverse reactions.
 3.	User selects an appropriate adverse reaction and selects view details option.
-4.	System displays the details of selected adverse reactions.
+4.	System displays the details including the associated agents such as medication of selected adverse reactions.
 
 __________________________________________________________
 **Alternate Flows:**
 
-**Alt-1: List Adverse Reactions in a Patient Chart**
+**Alt-1: Get Adverse Reaction in a Patient Chart**
 
 1.	Physician selects [find patients](../../../patient-administration/manage-patient-registry/find-patients.md) option.
 2.	System displays the list of patients.
@@ -33,6 +33,7 @@ __________________________________________________________
 4.	System displays the full patient chart.
 5.	Physician selectes the adverse reaction tab.
 6.	System then displays the patient's adverse reactions list.
+7.	Repeat step 3 and 4 from the success scenario.
 
 ________________________________________________________________________
 **Reference Hl7 V3 Interaction Identifiers:**
@@ -43,4 +44,4 @@ _______________________________________________________________
 **Reference CCHIT Criteria:**
 [More Details](https://www.cchit.org/cchit-certified)
 
-FN 05.12
+FN 05.12, FN 05.13
