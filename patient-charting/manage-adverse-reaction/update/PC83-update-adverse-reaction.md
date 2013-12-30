@@ -27,7 +27,7 @@ __________________________________________________________
 __________________________________________________________
 **Alternate Flows:**
 
-**Alt-1: Interaction Checking**
+**Alt-1: Update Adverse Reaction Status**
 
 1.	Repeat step 1 to 5 from the main scenario.
 2.	User modifies the status of the adverse reaction such as activate or de-activate.
